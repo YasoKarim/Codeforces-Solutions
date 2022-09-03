@@ -1,0 +1,34 @@
+#include<bits/stdc++.h>
+
+#include <iostream>
+using namespace std;
+
+void solve(){
+	string name,st;
+	cin>>name;
+	int count=0;
+	int i,j;
+	for(i=0;i<name.size();i++){
+		for( j=0;j<name.size();j++){
+		
+		if(name[i]==name[j]){
+			break;
+		}
+}
+	if(i==j){
+		st+=name[i];
+	}
+
+	}
+if(st.length() %2!=0){
+	cout<<"IGNORE HIM!"<<endl;
+
+}
+else{
+	cout<<"CHAT WITH HER!"<<endl;
+
+}
+}
+int main(int argc, char** argv) 
+{
+solve();}
