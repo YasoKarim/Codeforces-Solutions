@@ -1,0 +1,11 @@
+    #include <iostream>
+    using namespace std;
+    int main() {
+        int m,n,rec,dom,count;
+        cin>> m>>n;
+        rec = m*n;
+        dom = 2;
+        count = rec/dom;
+        cout<<count<<endl;
+        return 0;
+    }
