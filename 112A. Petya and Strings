@@ -1,0 +1,34 @@
+#include <bits/stdc++.h>
+#include<String>
+#include<algorithm>
+using namespace std;
+int main(int argc, char** argv) {
+string value1,value2;
+cin>>value1>>value2;
+/* loop to itrate over every character in the string
+we get size of one string because they are of same size
+tolower a method used to change upper to lower case
+aaag //bigger
+aaaf
+1
+abcd
+abcd 
+equal - 0
+abcf
+abcd smaller than
+-1*/
+for(int i=0;i<value1.size();i++){
+	int n1=tolower(value1[i]);
+	int n2=tolower(value2[i]);
+	if(n1<n2){
+		cout<<-1<<endl;
+		return 0;}
+		else if(n1>n2){
+			cout<<1<<endl;
+	    return 0;
+		}
+		
+	}
+cout<<0<<endl;
+}
+
