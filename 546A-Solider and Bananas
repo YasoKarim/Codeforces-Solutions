@@ -1,0 +1,18 @@
+#include <iostream>
+#include <cmath>
+typedef long long ll;
+using namespace std;
+int main(int argc, char** argv) {
+	ll k,n,bananas,count=0,dollar=0;
+	cin>>k>>n>>bananas;
+	for(int i=1;i<=bananas;i++){
+		dollar = k*i;
+		n=n-dollar;
+		}
+	if(n<0){
+	count=abs(n);
+	cout<<count;}
+	else
+	cout<<0;
+	return 0;
+}
