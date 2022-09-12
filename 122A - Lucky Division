@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+int main(int argc, char** argv) {
+   int n,flag=0; 
+   cin>>n;
+   //we get all the lucky number ranging between 1 and 1000
+   int lucky[14]={4,7,44,47,74,77,444,447,474,477,744,747,774,777};
+   //we check if the number is divisable evenly by at least one lucky number
+   //if true break from the loop 
+   //if not print no 
+   for(int i=0;i<14;i++){
+   	if(n%lucky[i]==0){
+   	flag =1;
+   	break;}
+   }
+   if(flag ==1)
+   cout<<"YES";
+   else 
+   cout<<"NO";
+   return 0;
+}
+//Keep trying no matter how hard it gets!!
+//Most importanly understand the question and try by yourself before looking at the answer.
+//You can do it :D!!!!
