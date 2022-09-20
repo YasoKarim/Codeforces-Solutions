@@ -12,6 +12,7 @@ Here is a link to download book that explains C++ in an efficient way [PDF BOOK 
 #**Problems are rated by letters such as A are the easiest and so on, it is better to solve on a specific topic till you handle it and jump to next one**
 * [W3schools](https://www.w3schools.com/cpp/default.asp) as a beginner use this link to learn c++ <br />
 * [Javatpoint](https://www.javatpoint.com/cpp-tutorial) <br />
+* [CodeCrackers](https://codescracker.com/cpp/program/cpp-program-reverse-array.htm#:~:text=To%20reverse%20an%20array%20in%20C%2B%2B%20programming%2C%20you,second%20last%20index%20to%20second%20and%20so%20on) <br />
 * [TutorialGateway](https://www.tutorialgateway.org/cpp-programs/) <br />
 * As a beginner solving problems in this site as they are rated from easiest to the hardest [Codechef](https://www.codechef.com/practice?end_rating=999&group=all&hints=0&itm_campaign=practice&itm_medium=navmenu&limit=20&page=0&search=&sort_by=difficulty_rating&sort_order=asc&start_rating=0&tags=&topic=&video_editorial=0&wa_enabled=0) <br />
 * You can shift also to this site [atcoder](https://kenkoooo.com/atcoder/#/table/) <br />
