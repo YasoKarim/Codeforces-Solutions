@@ -8,8 +8,8 @@ I hope it helps for your Coding training =D <br />
 * You need to know the syntax of the language you are using. (C++ preferred as it's execution time is less than most programming languages and contains a great STL) <br />
 Here is a link to download book that explains C++ in an efficient way [PDF BOOK DOWNLOAD](http://powerunit-ju.com/wp-content/uploads/2020/02/Daniel-Y-Liang-et-al.-Introduction-to-Programming-with-C-Pearson-2014.pdf) <br />
 * You **have** to study **strings**, it is a **very important** topic. <br />
-## **Useful Links for CPP Syntax and sites for Problem solving** <br />
-# **Problems are rated by letters such as A are the easiest and so on, it is better to solve on a specific topic till you handle it and jump to next one**
+# **Useful Links for CPP Syntax and sites for Problem solving** <br />
+## **Problems are rated by letters such as A are the easiest and so on, it is better to solve on a specific topic till you handle it and jump to next one**
 * [W3schools](https://www.w3schools.com/cpp/default.asp) as a beginner use this link to learn c++ <br />
 * [HackerRank](https://www.hackerrank.com/) It is a good place to learn C++ (beginner) and there are contests available to participate in <br />
 * [Javatpoint](https://www.javatpoint.com/cpp-tutorial) <br />
