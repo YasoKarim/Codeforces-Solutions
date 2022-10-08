@@ -1,0 +1,18 @@
+    #include <iostream>
+    using namespace std;
+    int main(int argc, char** argv) {
+    	int people,num,flag=0;
+    	cin>>people;
+    	while(people--){
+    		cin>>num;
+    		if(num == 1){
+    			flag = 1;
+    			break;
+    		}
+    	}
+    	if(flag == 1)
+    	printf("HARD");
+    	else
+    	printf("EASY");
+    	return 0;
+    }
