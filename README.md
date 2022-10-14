@@ -20,8 +20,12 @@ Here is a link to download book that explains C++ in an efficient way [PDF BOOK 
 * You can shift also to this site [atcoder](https://kenkoooo.com/atcoder/#/table/) <br />
 * You can follow this Plan with assuit sheets [Plan](https://docs.google.com/spreadsheets/d/12XlGl2Nae1NXRDNet_bGQ2HM2O3kq-9FS0Jm2pDwFyg/edit#gid=1683044666) and link to the
 sheets on codeforces [Assuit Sheets](https://codeforces.com/group/MWSDmqGsZm/contests) <br />
-##VERY IMPORTANT NOTE FORCUS ON ONE PLAN ONLY DON'T GET DISTRACTED BY DIFFERENT PATHS
-
+## VERY IMPORTANT NOTE FORCUS ON ONE PLAN ONLY DON'T GET DISTRACTED BY DIFFERENT PATHS
+If you are Weak in a certain topic it's advised to: <br /> 
+1 - Study the topic related to the problem first <br />
+2 - solve problems related to this topic <br />
+3 - Start solving the problem on the online judge you are using <br />
+[Reference](https://www.quora.com/How-should-I-get-started-in-competitive-programming/answer/Bobby-Martinez-144?ch=3&oid=381700344&share=ad5fd155&srid=umrqbO&target_type=answer) <br />
 ## Always remember <br />
 > The expert in anything was once a beginner. <br />
 Good Luck !
