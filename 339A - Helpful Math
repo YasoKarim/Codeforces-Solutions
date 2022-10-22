@@ -1,0 +1,35 @@
+#include <iostream>
+#include <algorithm>
+/*
+YASMINE
+YK
+*/
+using namespace std;
+int main(int argc, char** argv) {
+	string s;
+	cin >> s;
+	int count = 0;
+	//to get the size of the new array
+	//if it is 5 then be 3 for the integers without + sign
+	int size = ((s.length() / 2) + 1);
+	int arr[size];
+	for(int i = 0;i < s.length();i++){
+	//if it is + we ignore it
+	if(s[i]=='+')
+	continue;
+	//we get the character in an integer form 
+	arr[count] = s[i] - '0';
+	count++; 
+    }
+    //we get the size of int array to use sort function
+    int len = sizeof(arr) / sizeof(arr[0]);
+    sort(arr,arr+len);
+    for(int i = 0;i < size;i++){
+    	//to prevent putting + after printing all elements
+		if(i != 0)
+    	cout<<"+";
+    	
+    	cout<<arr[i];
+	}
+	return 0;
+}
