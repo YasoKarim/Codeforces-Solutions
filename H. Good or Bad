@@ -1,0 +1,20 @@
+#include <iostream>
+#include <string>
+#include <algorithm>
+using namespace std;
+int main(int argc, char** argv) {
+	int test;
+	cin >> test;
+	while(test > 0){
+	string s;
+	cin >> s;
+	if(s.find("010") != string::npos || s.find("101") != string::npos){
+		cout<<"Good"<<"\n";
+	}
+	else{
+		cout<<"Bad"<<"\n";
+	}
+	test--;	
+	}
+	return 0;
+}
